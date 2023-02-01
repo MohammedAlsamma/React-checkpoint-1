@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MohammedAlsamma/React-checkpoint-1.git/static/css/main.509f2f7b.css",
+    "main.js": "/MohammedAlsamma/React-checkpoint-1.git/static/js/main.34f1ebdf.js",
+    "static/js/787.f68c0fb5.chunk.js": "/MohammedAlsamma/React-checkpoint-1.git/static/js/787.f68c0fb5.chunk.js",
+    "index.html": "/MohammedAlsamma/React-checkpoint-1.git/index.html",
+    "main.509f2f7b.css.map": "/MohammedAlsamma/React-checkpoint-1.git/static/css/main.509f2f7b.css.map",
+    "main.34f1ebdf.js.map": "/MohammedAlsamma/React-checkpoint-1.git/static/js/main.34f1ebdf.js.map",
+    "787.f68c0fb5.chunk.js.map": "/MohammedAlsamma/React-checkpoint-1.git/static/js/787.f68c0fb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.509f2f7b.css",
+    "static/js/main.34f1ebdf.js"
+  ]
+}
